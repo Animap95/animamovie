@@ -1,0 +1,5 @@
+{% load static %}
+body {
+    background-color:pink;
+}
+<link rel="stylesheet" href="{% static' style.css' %}">
